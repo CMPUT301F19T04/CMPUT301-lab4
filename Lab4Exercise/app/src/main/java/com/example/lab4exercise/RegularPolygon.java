@@ -1,3 +1,5 @@
+package com.example.lab4exercise;
+
 public class RegularPolygon {
     int sides;
     int sideLength;
