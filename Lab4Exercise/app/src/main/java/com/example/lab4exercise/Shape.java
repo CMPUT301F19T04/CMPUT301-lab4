@@ -1,10 +1,11 @@
 package com.example.lab4exercise;
 
+
 public abstract class Shape {
     private int x;
     private int y;
-
-    private String color = "Orange";
+    
+    private String color = "#008080";
 
     Shape(int x, int y){
         this.x = x;
